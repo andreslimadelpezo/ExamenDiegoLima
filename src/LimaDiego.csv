@@ -1,0 +1,11 @@
+Geoposicion,Lunes,Martes,Miercoles,Jueves,Viernes,TipoArsenal
+Coord-00,,,,,,aaaaaaaaaa
+Coord-09,01-02,,,,,abbbbbbbbbbb
+Coord-02,,02-04,,,,abbbb
+Coord-08,,02-04,,,,abcd
+Coord-07,,,03-06,,,abcddddddddddddd
+Coord-00,,,,,,a
+Coord-07,,,03-06,,,abcd
+Coord-06,,,,04-08,,abcdttttt
+Coord-06,,,,,04-08,abcdtt
+Coord-00,,,,,,aa
